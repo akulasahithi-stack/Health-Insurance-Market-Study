@@ -1,0 +1,32 @@
+
+respondent_id,age_group,has_health_insurance,preferred_plan,main_decision_factor,premium_increase_response,affordable_monthly_premium_INR
+1,18-25,No,Basic,Price,Compare plans,500-1000
+2,18-25,Yes,Standard,Coverage,Keep plan,500-1000
+3,26-35,Yes,Comprehensive,Hospital network,Compare plans,1000-2000
+4,26-35,No,Basic,Price,Choose lower cover,500-1000
+5,36-50,Yes,Comprehensive,Claim service,Keep plan,2000-4000
+6,51+,Yes,Standard,Hospital network,Consider not renewing,1000-2000
+7,18-25,No,Unsure,Brand trust,Unsure,Below 500
+8,26-35,Yes,Standard,Price,Compare plans,1000-2000
+9,36-50,Yes,Comprehensive,Coverage,Keep plan,2000-4000
+10,51+,No,Basic,Price,Consider not renewing,500-1000
+11,18-25,Yes,Basic,Price,Choose lower cover,Below 500
+12,26-35,No,Standard,Coverage,Compare plans,1000-2000
+13,36-50,Yes,Standard,Claim service,Keep plan,1000-2000
+14,51+,Yes,Comprehensive,Hospital network,Compare plans,2000-4000
+15,18-25,No,Basic,Price,Consider not renewing,Below 500
+16,26-35,Yes,Comprehensive,Coverage,Keep plan,2000-4000
+17,36-50,No,Unsure,Price,Unsure,1000-2000
+18,51+,Yes,Standard,Claim service,Choose lower cover,1000-2000
+19,18-25,Yes,Standard,Brand trust,Compare plans,500-1000
+20,26-35,Yes,Basic,Price,Choose lower cover,500-1000
+21,36-50,Yes,Comprehensive,Hospital network,Keep plan,2000-4000
+22,51+,No,Unsure,Coverage,Consider not renewing,1000-2000
+23,18-25,No,Basic,Price,Compare plans,Below 500
+24,26-35,Yes,Standard,Claim service,Keep plan,1000-2000
+25,36-50,Yes,Comprehensive,Brand trust,Compare plans,2000-4000
+26,51+,Yes,Standard,Coverage,Keep plan,2000-4000
+27,18-25,No,Unsure,Price,Unsure,500-1000
+28,26-35,Yes,Comprehensive,Hospital network,Choose lower cover,1000-2000
+29,36-50,No,Basic,Price,Consider not renewing,500-1000
+30,51+,Yes,Comprehensive,Claim service,Keep plan,2000-4000
